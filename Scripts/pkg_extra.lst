@@ -44,6 +44,10 @@ bat|zsh                                                  # enhanced version of c
 eza|zsh                                                  # file lister for zsh
 duf|zsh                                                  # prettier version of df for zsh
 zoxide|zsh
+# --------------------------------------------------- // fish
+bat|fish                                                 # enhanced version of cat
+eza|fish                                                 # file lister
+duf|fish                                                 # prettier version of df
 
 # --------------------------------------------------- // Editor
 # vscodium                                              # Full oss text editor
